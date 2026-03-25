@@ -135,7 +135,7 @@
 
 ## 🧪 Data Preparation
 
-![Загрузка данных](docs/screenshots/notebook/data-loading-overview.png)
+![Загрузка данных](docs/screenshots/notebook/raw-data-preview.png)
 
 <p align="center"><i>Рис. 5 — Загрузка данных</i></p>
 
@@ -149,7 +149,7 @@
 - фиксирует источник данных;
 - задаёт воспроизводимую точку начала обработки.
 
-![Просмотр сырого датасета](docs/screenshots/notebook/raw-data-preview.png)
+![Просмотр сырого датасета](docs/screenshots/notebook/data-loading-overview.png)
 
 <p align="center"><i>Рис. 6 — Просмотр сырого датасета</i></p>
 
