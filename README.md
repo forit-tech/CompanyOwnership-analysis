@@ -220,21 +220,16 @@
 
 ## ▶️ Как запустить
 
-Если вы находитесь в корне репозитория, отдельный переход в `dashboard/` не нужен: приложение уже лежит здесь.
-
 ```bash
+git clone https://github.com/forit-tech/CompanyOwnership-analysis.git
+cd CompanyOwnership-analysis
 npm install
 npm run dev
 ```
-
-Если хотите показать шаг перехода в папку как в типичном frontend-репозитории, команда будет выглядеть так:
-
+После запуска приложение будет доступно локально, обычно по адресу:
 ```bash
-cd dashboard
-npm install
-npm run dev
+http://localhost:5173
 ```
-
 Для работы интерфейса итоговый CSV должен лежать в `public/data.csv`.
 
 ## 🌱 Дальнейшие улучшения
